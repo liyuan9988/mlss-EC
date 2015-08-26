@@ -1,0 +1,2 @@
+alpha,beta,nTopic,nSample,burn_in,record_period
+0.1,0.1,50,500,100,5
